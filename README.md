@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:8b5cf6&height=200&section=header&animation=twinkling" />
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/assets/Cool-Space-Banner.gif" width="100%" />
   
   <p align="center">
     <a href="https://readme-typing-svg.herokuapp.com">
