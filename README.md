@@ -1,14 +1,17 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/assets/Cool-Space-Banner.gif" width="100%" />
+  <img src="https://media.giphy.com/media/l41lSLto3wzWuN9nO/giphy.gif" width="100%" height="250" style="object-fit: cover;" />
   
+  <br/>
+  <br/>
+
   <p align="center">
     <a href="https://readme-typing-svg.herokuapp.com">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Software+Engineer;IoT+Enthusiast+%26+Agribusiness;D3+Manajemen+Informatika+-+POLINELA;Building+Kaesang+Cendawan+🍄" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Software+Engineer;IoT+Enthusiast+%26+Agribusiness;D3+Informatics+Management+-+Politeknik+Negeri+Lampung;Building+Kaesang+Cendawan+🍄" alt="Typing SVG" />
     </a>
   </p>
   
   <p align="center">
-    <i>"Membangun ekosistem digital dan otomasi cerdas, dari baris kode hingga perkebunan jamur."</i> 🍄🚀
+    <i>"Building digital ecosystems and smart automation, from lines of code to mushroom farms."</i> 🍄🚀
   </p>
 
   <p align="center">
@@ -22,10 +25,10 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Saat ini sedang menempuh pendidikan **D3 Manajemen Informatika** di **POLINELA** (MI4A).
-- 🍄 Sedang membangun dan mengembangkan **Kaesang Cendawan**, sebuah bisnis agribisnis jamur tiram & lingzhi berbasis di Way Kanan, Lampung, lengkap dengan integrasi E-Commerce dan IoT.
-- 🤖 Tertarik pada pengembangan **Sistem Multi-Agen AI**, **Web Architecture (Next.js/React)**, dan **Internet of Things (ESP32)**.
-- 💡 Selalu memprioritaskan: *Performance over visual gimmicks, Correctness over cleverness.*
+- 🎓 Currently pursuing a **D3 (Associate Degree) in Informatics Management** at **Politeknik Negeri Lampung**.
+- 🍄 Building and developing **Kaesang Cendawan**, an Oyster & Lingzhi mushroom agribusiness based in Way Kanan, Lampung, fully integrated with E-Commerce and IoT.
+- 🤖 Passionate about **Multi-Agent AI Systems**, **Web Architecture (Next.js/React)**, and the **Internet of Things (ESP32)**.
+- 💡 Core philosophy: *Performance over visual gimmicks, Correctness over cleverness.*
 
 <br/>
 
@@ -56,7 +59,7 @@
 
 <br/>
 
-## 🐍 Contribution Graph (The Snake Game)
+## 🐍 Contribution Graph
 
 <div align="center">
   <picture>
@@ -72,10 +75,10 @@
 
 | Project | Description | Stack | Status |
 |---|---|---|---|
-| **🛒 Kaesang Cendawan E-Commerce** | Toko online modern dengan sistem keranjang, JWT Auth, dan simulasi payment gateway Midtrans. | React, Node.js, MySQL | 🟡 Ongoing |
-| **🤖 Kaesang Telegram Sales Bot** | Bot penjualan otomatis dengan integrasi Groq AI (Llama 3.3) dan Rule-based Orchestrator. | Python, Groq API, G-Sheets | 🟢 Completed |
-| **💼 Raybot Portfolio System** | Website portfolio personal dengan maskot SVG interaktif (6 State Machine). | Next.js, TypeScript | 🟡 Ongoing |
-| **💧 Smart Mushroom Irrigation** | Sistem penyiraman jamur otomatis berbasis mikrokontroler ESP32 dengan integrasi sensor suhu. | ESP32, C++, MQTT | 🟡 Ongoing |
+| **🛒 Kaesang Cendawan E-Commerce** | Modern online store featuring a cart system, JWT Auth, and Midtrans payment gateway simulation. | React, Node.js, MySQL | 🟡 Ongoing |
+| **🤖 Kaesang Telegram Sales Bot** | Automated sales bot integrated with Groq AI (Llama 3.3) and a Rule-based Orchestrator. | Python, Groq API, G-Sheets | 🟢 Completed |
+| **💼 Raybot Portfolio System** | Personal portfolio website featuring an interactive SVG mascot (6 State Machine). | Next.js, TypeScript | 🟡 Ongoing |
+| **💧 Smart Mushroom Irrigation** | Automated mushroom watering system based on ESP32 microcontroller with temperature sensor integration. | ESP32, C++, MQTT | 🟡 Ongoing |
 
 <br/>
 
