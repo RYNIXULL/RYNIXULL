@@ -1,11 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:8b5cf6&height=200&section=header&text=Hello%20World!%20👋&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
-  
-  <h1 align="center">I'm M. Rayhan Zulkarnain</h1>
   
   <p align="center">
     <a href="https://readme-typing-svg.herokuapp.com">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Software+Engineer;IoT+Enthusiast+%26+Agribusiness;D3+Manajemen+Informatika+-+POLINELA;Building+Kaesang+Cendawan+🍄" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Software+Engineer;IoT+Enthusiast+%26+Agribusiness;D3+Manajemen+Informatika+-+POLINELA;Building+Kaesang+Cendawan+🍄" alt="Typing SVG" />
     </a>
   </p>
   
@@ -54,6 +51,18 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white" />
 
+</div>
+
+<br/>
+
+## 🐍 Contribution Graph (The Snake Game)
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RYNIXULL/RYNIXULL/output/dist/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RYNIXULL/RYNIXULL/output/dist/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RYNIXULL/RYNIXULL/output/dist/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <br/>
