@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/l41lSLto3wzWuN9nO/giphy.gif" width="100%" height="250" style="object-fit: cover;" />
+  <img src="assets/galaxy.gif" width="100%" />
   
   <br/>
   <br/>
