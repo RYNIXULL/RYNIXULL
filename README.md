@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/galaxy.gif" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1A1A1A&height=200&section=header&animation=twinkling" width="100%" />
   
   <br/>
   <br/>
