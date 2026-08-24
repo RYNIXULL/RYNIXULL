@@ -2,98 +2,176 @@
   <img src="assets/galaxy.svg" width="100%" />
   
   <br/>
-  <br/>
 
-  <p align="center">
+  <p>
     <a href="https://readme-typing-svg.herokuapp.com">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Software+Engineer;IoT+Enthusiast+%26+Agribusiness;D3+Informatics+Management+-+Politeknik+Negeri+Lampung;Building+Kaesang+Cendawan" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Software+Engineer;Full-Stack+Web+Developer;IoT+%26+Embedded+Systems;Informatics+Management+Student" alt="Typing SVG" />
     </a>
   </p>
-  
-  <p align="center">
-    <i>"Building digital ecosystems and smart automation, from lines of code to mushroom farms."</i>
-  </p>
 
-  <p align="center">
-    <a href="https://rayhanzulkarnain.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-    <a href="mailto:email-kakak@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://linkedin.com/in/ryhnixull"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://instagram.com/ryhnxull"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  </p>
+  <br/>
+
+  <a href="https://rayhanzulkarnain.dev"><img src="https://img.shields.io/badge/Portfolio-rayhanzulkarnain.dev-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  &nbsp;
+  <a href="https://linkedin.com/in/ryhnixull"><img src="https://img.shields.io/badge/LinkedIn-ryhnixull-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="https://instagram.com/ryhnxull"><img src="https://img.shields.io/badge/Instagram-ryhnxull-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  &nbsp;
+  <a href="https://github.com/RYNIXULL"><img src="https://img.shields.io/badge/GitHub-RYNIXULL-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
 </div>
 
 <br/>
 
-## About Me
+## About
 
-- Currently pursuing a **D3 (Associate Degree) in Informatics Management** at **Politeknik Negeri Lampung**.
-- Building and developing **Kaesang Cendawan**, an Oyster & Lingzhi mushroom agribusiness based in Way Kanan, Lampung, fully integrated with E-Commerce and IoT.
-- Passionate about **Multi-Agent AI Systems**, **Web Architecture (Next.js/React)**, and the **Internet of Things (ESP32)**.
-- Core philosophy: *Performance over visual gimmicks, Correctness over cleverness.*
+I'm **Rayhan Zulkarnain**, a software engineer and IoT enthusiast currently pursuing a D3 (Associate Degree) in **Informatics Management** at **Politeknik Negeri Lampung**.
 
-<br/>
+I build full-stack web applications, real-time systems, and embedded IoT solutions. Outside of code, I'm developing **Kaesang Cendawan** — an Oyster & Lingzhi mushroom agribusiness in Way Kanan, Lampung, integrating E-Commerce platforms with IoT-based smart farming automation.
 
-## Tech Stack & Tools
+**Core interests:** Multi-Agent AI Systems, Modern Web Architecture (Next.js / React), Internet of Things (ESP32), Real-Time Applications.
+
+> *Performance over visual gimmicks. Correctness over cleverness.*
+
+---
+
+## Tech Stack
 
 <div align="center">
 
-### Frontend & UI
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/Zustand-3F3F3F?style=for-the-badge&logo=react&logoColor=white" />
+<table>
+<tr>
+<td align="center" width="33%"><b>Frontend & UI</b></td>
+<td align="center" width="33%"><b>Backend & Database</b></td>
+<td align="center" width="33%"><b>IoT & DevOps</b></td>
+</tr>
+<tr>
+<td align="center">
 
-### Backend & Database
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
 
-### IoT & Tools
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Arduino/ESP32-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white" />
+</td>
+<td align="center">
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+
+</td>
+<td align="center">
+
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white" />
+
+</td>
+</tr>
+</table>
 
 </div>
 
-<br/>
+---
 
-## Contribution Graph
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### RYNIXULL Portfolio
+> Interactive 3D portfolio with Andromeda galaxy particle system, AI-powered mascot chatbot, and gyroscope-responsive mobile experience.
+
+**Stack:** Next.js, TypeScript, WebGL Canvas, Gemini AI, Framer Motion
+
+<a href="https://rayhanzulkarnain.dev"><img src="https://img.shields.io/badge/Live-rayhanzulkarnain.dev-blue?style=flat-square" /></a>
+<a href="https://github.com/RYNIXULL/portofolio"><img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github" /></a>
+
+</td>
+<td width="50%">
+
+### COMMBAT
+> Real-time gamified quiz platform with client-server architecture, live scoring, and competitive multiplayer sessions.
+
+**Stack:** Next.js, TypeScript, WebSocket, Real-Time Engine
+
+<a href="https://github.com/RYNIXULL"><img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github" /></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### SmartPrint POS
+> Production management and point-of-sale system designed for printing businesses, featuring order tracking, inventory, and transaction management.
+
+**Stack:** Next.js, TypeScript, MySQL, Prisma
+
+<a href="https://github.com/RYNIXULL"><img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github" /></a>
+
+</td>
+<td width="50%">
+
+### Kaesang Cendawan E-Commerce
+> Full-stack online store with cart system, JWT authentication, Midtrans payment gateway integration, and automated Telegram sales bot powered by Groq AI.
+
+**Stack:** React, Node.js, MySQL, Python, Groq API
+
+<a href="https://github.com/RYNIXULL"><img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github" /></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" colspan="2">
+
+### Smart Mushroom Irrigation (IoT)
+> Automated mushroom cultivation watering system using ESP32 microcontroller with DHT temperature/humidity sensors and MQTT-based remote monitoring.
+
+**Stack:** ESP32, C++, MQTT, IoT Sensors
+
+</td>
+</tr>
+</table>
+
+---
+
+## Contribution Activity
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RYNIXULL/RYNIXULL/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RYNIXULL/RYNIXULL/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RYNIXULL/RYNIXULL/output/github-contribution-grid-snake.svg">
+    <img alt="Contribution graph animation" src="https://raw.githubusercontent.com/RYNIXULL/RYNIXULL/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
-<br/>
+---
 
-## Featured Projects
-
-| Project | Description | Stack | Status |
-|---|---|---|---|
-| **Kaesang Cendawan E-Commerce** | Modern online store featuring a cart system, JWT Auth, and Midtrans payment gateway simulation. | React, Node.js, MySQL | Ongoing |
-| **Kaesang Telegram Sales Bot** | Automated sales bot integrated with Groq AI (Llama 3.3) and a Rule-based Orchestrator. | Python, Groq API, G-Sheets | Completed |
-| **Raybot Portfolio System** | Personal portfolio website featuring an interactive SVG mascot (6 State Machine). Live at [rayhanzulkarnain.dev](https://rayhanzulkarnain.dev) | Next.js, TypeScript | Ongoing |
-| **Smart Mushroom Irrigation** | Automated mushroom watering system based on ESP32 microcontroller with temperature sensor integration. | ESP32, C++, MQTT | Ongoing |
-
-<br/>
-
-## GitHub Stats
+## GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RYNIXULL&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <br/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RYNIXULL&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=RYNIXULL&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&ring_color=3B82F6" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RYNIXULL&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&langs_count=6" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RYNIXULL&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak" />
 </div>
 
 ---
-<p align="center">
-  <i>Visitor Count</i><br/>
-  <img src="https://komarev.com/ghpvc/?username=RYNIXULL&color=blue&style=flat-square" />
-</p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=RYNIXULL&color=3B82F6&style=flat-square&label=Profile+Views" />
+  <br/><br/>
+  <sub>Built with precision from Lampung, Indonesia.</sub>
+</div>
