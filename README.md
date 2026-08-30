@@ -24,13 +24,13 @@
 <br/>
 
 ## About
+I'm **Rayhan Zulkarnain**, a **D3 Informatics Management student** at **Politeknik Negeri Lampung** with a deep interest in software engineering and IoT.
 
-I'm **Rayhan Zulkarnain**, a software engineer and IoT enthusiast currently pursuing a D3 (Associate Degree) in **Informatics Management** at **Politeknik Negeri Lampung**.
+I enjoy turning ideas into functional code, focusing on full-stack web and real-time apps. Right now, my favorite playground is **Kaesang Cendawan** (my Oyster and Lingzhi mushroom agribusiness in Way Kanan) where I apply what I learn to build IoT smart farming solutions and e-commerce platforms.
 
-I build full-stack web applications, real-time systems, and embedded IoT solutions. Outside of code, I'm developing **Kaesang Cendawan** — an Oyster & Lingzhi mushroom agribusiness in Way Kanan, Lampung, integrating E-Commerce platforms with IoT-based smart farming automation.
+Core interests: Multi-Agent AI Systems, Modern Web Architecture (Next.js / React), IoT (ESP32).
 
-**Core interests:** Multi-Agent AI Systems, Modern Web Architecture (Next.js / React), Internet of Things (ESP32), Real-Time Applications.
-
+Performance over visual gimmicks. Correctness over cleverness.
 > *Performance over visual gimmicks. Correctness over cleverness.*
 
 ---
