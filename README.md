@@ -30,7 +30,6 @@ I enjoy turning ideas into functional code, focusing on full-stack web and real-
 
 Core interests: Multi-Agent AI Systems, Modern Web Architecture (Next.js / React), IoT (ESP32).
 
-Performance over visual gimmicks. Correctness over cleverness.
 > *Performance over visual gimmicks. Correctness over cleverness.*
 
 ---
